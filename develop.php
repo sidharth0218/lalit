@@ -9,6 +9,7 @@
 <body>
     <div class="container">
         <b>old school </b>
+        <h1> i have expreience of 2 year  in  bmn infotech pvt ltd as  1 year backend developer and 6 month frontend developer and 6 month full stch developer   </h1>
         <p>high summer  AP Dhillow</p>
     </div>
 </body>
